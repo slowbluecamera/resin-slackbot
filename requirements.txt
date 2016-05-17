@@ -1,0 +1,4 @@
+-e git://github.com/slowbluecamera/slackbot.git#egg=slackbot
+slackbot-eliza
+tox
+pytest

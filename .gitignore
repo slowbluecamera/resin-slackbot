@@ -1,0 +1,7 @@
+.#*
+*.log
+*.pyc
+venv
+.env
+.cache
+.tox
